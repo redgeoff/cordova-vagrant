@@ -12,7 +12,7 @@ A VM for developing cordova apps on macOS
 
 ## Set up
 
-    $ git clone https://github.com/redgeoff/node-couchdb-vagrant.git
+    $ git clone https://github.com/redgeoff/cordova-vagrant.git
     $ cd cordova-vagrant
     $ vagrant up
     $ vagrant ssh
